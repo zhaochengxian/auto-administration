@@ -52,7 +52,7 @@ const findWantedWithAutoClick = (sex, age, educations, years) => {
                     && educations.includes((this).find('boss-list-itemeducation').text())
                 ){
 
-                $(this).trigger('click')
+                $(this).find("button").trigger('click')
             }
         })
     }
