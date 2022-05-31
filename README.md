@@ -16,7 +16,7 @@ In your life, have you ever met recruiters, looking for them one by one, which i
 
 ### third step
 
-打开index.js，之后改成你想要的大学，经验年限，性别，年龄，全部复制，直接粘贴到浏览器，并执行
+把下面代码，改成你想要的大学，经验年限，性别，年龄，全部复制，直接粘贴到浏览器，并执行，例如我找5年以上，男的，35岁一下，这些大学毕业的，只需要改findWantedWithAutoClick("男", 35, educations, 5)和educations即可
 ```
 var educations = [
     "清华大学",
@@ -57,7 +57,6 @@ const findWantedWithAutoClick = (sex, age, educations, years) => {
         })
     }
 }
-
 
 window.setInterval(() => {
     window.scrollTo(0, scrollUp())
