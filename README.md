@@ -1,5 +1,5 @@
 # auto-administration（自动化招聘的工具）
-In your life, you haven't met any recruiters. Looking for recruiters one by one is not only boring, but also a waste of time. Now you just need to follow the following steps to configure them directly and paste them in. You don't need to ask about anything else. All you need to do is open the browser every day, and then you can fish with peace of mind（生活中，你没没有遇到过招聘人，一个一个的寻找，这种不仅枯燥，而且浪费时间，现在你只需要按照下面的步骤，直接配置好，粘进去，其他就不用问了，你需要做的只是每天打开浏览器，ctrl-c,ctrl-v就可以了，然后你就可以安心的摸鱼了
+In your life, have you ever met recruiters, looking for them one by one, which is not only boring, but also a waste of time. Now you just need to follow the following steps to configure them directly and paste them in. You don't need to ask about anything else. All you need to do is open the browser every day, and then you can fish with peace of mind（生活中，你有没有遇到过招聘人，一个一个的寻找，这种不仅枯燥，而且浪费时间，现在你只需要按照下面的步骤，直接配置好，粘进去，其他就不用问了，你需要做的只是每天打开浏览器，ctrl-c,ctrl-v就可以了，然后你就可以安心的摸鱼了
 ）
 
 ## first step
